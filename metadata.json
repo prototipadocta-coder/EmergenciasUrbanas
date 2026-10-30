@@ -1,0 +1,6 @@
+{
+  "name": "Derrumbes Urbanos - Emergencia",
+  "description": "Videojuego táctico de simulación de emergencias viales y despeje de derrumbes con maquinaria pesada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

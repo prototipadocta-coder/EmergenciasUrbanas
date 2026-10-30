@@ -1,0 +1,8 @@
+# Vercel Ignore file
+.git
+.github
+node_modules
+.env*.local
+.env
+.aistudio
+README.md
